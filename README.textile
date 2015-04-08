@@ -1,0 +1,3 @@
+Gets details of newly released or top box office films from Rotten Tomatoes using their API, including: title, genres, audience score, critics score, MPAA certificate and year of release.
+
+The datastore also includes various older films for comparison.
